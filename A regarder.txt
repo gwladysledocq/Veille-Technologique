@@ -1,0 +1,6 @@
+Angular CLI -> Karma
+Liquibase
+javascript / Jquery / Mootools / Backbone.js, Ember.js, Meteor.js
+Google Chrome et moteur d'exécution V8
+Ruby
+Python
